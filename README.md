@@ -40,7 +40,7 @@ uv pip install -r requirements.txt
 1. Make sure your virtual environment is activated
 2. Run the application:
 ```bash
-python run.py
+streamlit run src/main.py
 ```
 
 The application will start and open in your default web browser at `http://localhost:8501`
